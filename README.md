@@ -1,0 +1,1 @@
+sql connection to remote database using VS 2015
